@@ -23,6 +23,13 @@ Run composer install
 ```
 composer install
 ```
+Rename .env.example to .env then setup your database configuration
+
+```
+DB_DATABASE=your_database_name
+DB_USERNAME=your_database_username
+DB_PASSWORD=your_database_password
+```
 
 Migrate database
 
