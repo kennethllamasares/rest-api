@@ -14,6 +14,10 @@ Clone this repo
 git clone https://github.com/kennethllamasares/rest-api.git rest-api
 ```
 
+```
+cd rest-api
+```
+
 Run composer install
 
 ```
