@@ -31,6 +31,12 @@ DB_USERNAME=your_database_username
 DB_PASSWORD=your_database_password
 ```
 
+Generate application key
+
+```
+php artisan key:generate
+```
+
 Migrate database
 
 ```
